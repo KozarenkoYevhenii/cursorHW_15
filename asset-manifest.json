@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursorHW_15/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cursorHW_15/static/js/main.408399cc.chunk.js",
+    "main.js.map": "/cursorHW_15/static/js/main.408399cc.chunk.js.map",
+    "runtime-main.js": "/cursorHW_15/static/js/runtime-main.40ad8bd3.js",
+    "runtime-main.js.map": "/cursorHW_15/static/js/runtime-main.40ad8bd3.js.map",
+    "static/js/2.113a44fc.chunk.js": "/cursorHW_15/static/js/2.113a44fc.chunk.js",
+    "static/js/2.113a44fc.chunk.js.map": "/cursorHW_15/static/js/2.113a44fc.chunk.js.map",
+    "index.html": "/cursorHW_15/index.html",
+    "precache-manifest.a547efa55cad2b5939e8f429a55c2574.js": "/cursorHW_15/precache-manifest.a547efa55cad2b5939e8f429a55c2574.js",
+    "service-worker.js": "/cursorHW_15/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cursorHW_15/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.113a44fc.chunk.js.LICENSE.txt": "/cursorHW_15/static/js/2.113a44fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cursorHW_15/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ad8bd3.js",
+    "static/js/2.113a44fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.408399cc.chunk.js"
+  ]
+}
